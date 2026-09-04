@@ -2,11 +2,11 @@
 
   <!-- Typing SVG Dynamic Header -->
   <a href="https://github.com/aashutoshkumarr">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=680&lines=Hi%2C+I'm+Ashutosh+Kumar+%F0%9F%91%8B;AI+%26+Machine+Learning+Engineer;Building+Autonomous+Agentic+Systems;Architecting+Scalable+RecSys+Engines;Full-Stack+Applied+AI+Developer" alt="Typing SVG Banner" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=680&lines=Hi%2C+I'm+Ashutosh+Kumar+%F0%9F%91%8B;AI+%26+Machine+Learning+Engineer;Building+Autonomous+Agentic+Systems;Architecting+Scalable+RecSys+Engines;Full-Stack+Applied+AI+Developer;Algorithmic+Problem+Solver" alt="Typing SVG Banner" />
   </a>
 
   <p align="center">
-    <strong>Designing & Deploying High-Performance Intelligent Systems • RecSys • Autonomous Agents • Production ML</strong>
+    <strong>Designing & Deploying High-Performance Intelligent Systems • RecSys • Autonomous Agents • Production ML • Java DSA</strong>
   </p>
 
   <!-- Quick Badges -->
@@ -27,12 +27,13 @@
 
 ### 👨‍💻 Executive Summary
 
-I am an **Applied AI & Machine Learning Engineer** passionate about turning complex algorithms into reliable, scalable, and low-latency production systems. My engineering focus centers on:
+I am an **Applied AI & Machine Learning Engineer** focused on building resilient, low-latency, and high-impact production systems. My engineering foundation combines algorithmic rigor with modern AI architectures:
 
-- 🧠 **Autonomous Agentic Systems & LLM Tool-Calling**: Developing multi-engine static analyzers and ReAct agents equipped with determinism, AST evaluation, and semantic codebase RAG.
-- 🎯 **Recommendation Systems (RecSys)**: Building personalized discovery engines using collaborative filtering, behavioral embeddings, and real-time interaction signals.
-- 📈 **Predictive Modeling & Statistical ML**: Architecting end-to-end data pipelines, time-series forecasting, and robust imbalanced classification models (SMOTE, XGBoost).
-- ⚡ **Full-Stack AI Architectures**: Crafting reactive, modular web dashboards (Next.js 14, FastAPI, TypeScript) that serve intelligent backend workloads.
+- 🧠 **Autonomous Agentic AI & Static Code Analysis**: Engineering deterministic multi-engine AST analyzers and ReAct tool-calling loops with semantic codebase RAG.
+- 🎯 **Recommendation Systems (RecSys)**: Building end-to-end personalization engines using LightGBM LambdaMART learning-to-rank, collaborative filtering, and behavioral embeddings.
+- 📈 **Predictive Modeling & Statistical ML**: Architecting automated data pipelines, financial time-series forecasting, and class-imbalanced clinical diagnostics (SMOTE, XGBoost).
+- ⚡ **Full-Stack AI Architecture**: Crafting modular, high-throughput web systems (React 19, Next.js 14, FastAPI, TypeScript, Bun) that serve intelligent workloads.
+- 🧩 **Algorithmic Problem Solving**: Deep mastery of Data Structures & Algorithms implemented from first principles in Java across 28+ domains.
 
 ---
 
@@ -47,6 +48,27 @@ I am an **Applied AI & Machine Learning Engineer** passionate about turning comp
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td>
+        <a href="https://github.com/aashutoshkumarr/ShopSense-AI---E-Commerce-RecSys-Engine">
+          <strong>🛍️ ShopSense AI Engine</strong>
+        </a>
+        <br/>
+        <em>Full-Stack Intelligent E-Commerce & RecSys</em>
+      </td>
+      <td>
+        • <strong>LightGBM LambdaMART</strong> learning-to-rank recommendation model for predictive product discovery.<br/>
+        • <strong>K-Means RFM</strong> customer behavioral segmentation with targeted automated coupons.<br/>
+        • <strong>Google Gemini 2.0</strong> aspect-based sentiment extraction over customer reviews.<br/>
+        • Real-time wallet, loyalty points engine, and smart cart co-purchase association rules.
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black" /><br/>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /><br/>
+        <img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=google&logoColor=white" /><br/>
+        <img src="https://img.shields.io/badge/Tailwind_4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+      </td>
+    </tr>
     <tr>
       <td>
         <a href="https://github.com/aashutoshkumarr/ai-github-repository-auditor">
@@ -69,27 +91,8 @@ I am an **Applied AI & Machine Learning Engineer** passionate about turning comp
     </tr>
     <tr>
       <td>
-        <a href="https://github.com/aashutoshkumarr/ShopSense-AI---E-Commerce-RecSys-Engine">
-          <strong>🛍️ ShopSense AI Engine</strong>
-        </a>
-        <br/>
-        <em>Personalized E-Commerce RecSys Engine</em>
-      </td>
-      <td>
-        • Personalized product discovery engine driven by user behavioral patterns and affinity modeling.<br/>
-        • Scalable recommendation pipelines delivering tailored suggestions to maximize customer conversion and engagement.<br/>
-        • High-throughput, data-driven personalization layer.
-      </td>
-      <td>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /><br/>
-        <img src="https://img.shields.io/badge/RecSys-FF6F00?style=flat-square" /><br/>
-        <img src="https://img.shields.io/badge/Collaborative_Filtering-0288D1?style=flat-square" />
-      </td>
-    </tr>
-    <tr>
-      <td>
         <a href="https://github.com/aashutoshkumarr/Twitter-Sentiment-Analysis">
-          <strong>📊 Twitter Sentiment Analysis</strong>
+          <strong>📊 Twitter Sentiment Analysis Pipeline</strong>
         </a>
         <br/>
         <em>Production NLP Classification Pipeline</em>
@@ -126,6 +129,25 @@ I am an **Applied AI & Machine Learning Engineer** passionate about turning comp
     </tr>
     <tr>
       <td>
+        <a href="https://github.com/aashutoshkumarr/autism-prediction-ml">
+          <strong>🧬 NeuroScreen Clinical Diagnostic ML</strong>
+        </a>
+        <br/>
+        <em>High-Recall Imbalanced Diagnostic ML</em>
+      </td>
+      <td>
+        • Clinical predictive modeling for autism spectrum screening outcomes using behavioral features.<br/>
+        • Overcame severe class imbalance using SMOTE synthetic oversampling paired with Random Forest and XGBoost ensembles.<br/>
+        • Optimized for high recall and minimized false negatives.
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/SMOTE-059669?style=flat-square" /><br/>
+        <img src="https://img.shields.io/badge/XGBoost-15803D?style=flat-square" /><br/>
+        <img src="https://img.shields.io/badge/Healthcare_AI-DC2626?style=flat-square" />
+      </td>
+    </tr>
+    <tr>
+      <td>
         <a href="https://github.com/aashutoshkumarr/ai-desktop-assistant">
           <strong>🎙️ JARVIS AI Desktop Assistant</strong>
         </a>
@@ -142,27 +164,27 @@ I am an **Applied AI & Machine Learning Engineer** passionate about turning comp
         <img src="https://img.shields.io/badge/Automation-14B8A6?style=flat-square" />
       </td>
     </tr>
-    <tr>
-      <td>
-        <a href="https://github.com/aashutoshkumarr/autism-prediction-ml">
-          <strong>🧬 Clinical Diagnostic ML Suite</strong>
-        </a>
-        <br/>
-        <em>High-Recall Imbalanced Diagnostic ML</em>
-      </td>
-      <td>
-        • Clinical predictive modeling for autism spectrum screening outcomes using behavioral features.<br/>
-        • Overcame severe class imbalance using SMOTE synthetic oversampling paired with Random Forest and XGBoost ensembles.<br/>
-        • Optimized for high recall and minimized false negatives.
-      </td>
-      <td>
-        <img src="https://img.shields.io/badge/SMOTE-059669?style=flat-square" /><br/>
-        <img src="https://img.shields.io/badge/XGBoost-15803D?style=flat-square" /><br/>
-        <img src="https://img.shields.io/badge/Healthcare_AI-DC2626?style=flat-square" />
-      </td>
-    </tr>
   </tbody>
 </table>
+
+---
+
+### ⚡ Algorithmic Problem Solving & Data Structures
+
+<div align="center">
+
+  <a href="https://github.com/aashutoshkumarr/Tayyari_DSA_One">
+    <img src="https://img.shields.io/badge/Repository-Tayyari__DSA__One-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/badge/Language-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Curriculum-28+_Modules-00C853?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Standard-FAANG_Interview_Ready-7928CA?style=for-the-badge" />
+
+</div>
+
+> A comprehensive repository containing hundreds of optimized Java implementations across the full breadth of classical algorithms and data structures:
+>
+> **Arrays** • **2D Arrays** • **Strings** • **Binary Search** • **Linked Lists** • **Monotonic Stacks** • **Queues & Deques** • **Binary Trees & BST** • **Heaps / Priority Queues** • **Dynamic Programming (0/1 Knapsack, LCS, LIS)** • **Graph Theory (BFS, DFS, Dijkstra, MST, DSU)** • **Backtracking & Recursion** • **Greedy Algorithms** • **Bit Manipulation** • **Cyclic Sort ($O(N)$ In-Place)** • **Number Theory (Sieve, Fast Exponentiation)** • **OOP Architecture**
 
 ---
 
@@ -174,6 +196,7 @@ I am an **Applied AI & Machine Learning Engineer** passionate about turning comp
     <td>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
       <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
       <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
@@ -182,38 +205,40 @@ I am an **Applied AI & Machine Learning Engineer** passionate about turning comp
     </td>
   </tr>
   <tr>
-    <td><strong>AI / ML & Data Science</strong></td>
+    <td><strong>AI / ML & RecSys</strong></td>
     <td>
       <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
       <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
       <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
+      <img src="https://img.shields.io/badge/LightGBM-LambdaMART-FF6F00?style=flat-square" />
+      <img src="https://img.shields.io/badge/Collaborative_Filtering-0288D1?style=flat-square" />
       <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
       <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
       <img src="https://img.shields.io/badge/XGBoost-15803D?style=flat-square" />
       <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
-      <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
     </td>
   </tr>
   <tr>
-    <td><strong>Agentic AI & LLMs</strong></td>
+    <td><strong>Generative AI & Agents</strong></td>
     <td>
       <img src="https://img.shields.io/badge/ReAct_Tool_Calling-6366F1?style=flat-square" />
       <img src="https://img.shields.io/badge/Codebase_RAG-8B5CF6?style=flat-square" />
-      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
-      <img src="https://img.shields.io/badge/Vector_Search-EC4899?style=flat-square" />
       <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat-square&logo=google&logoColor=white" />
       <img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white" />
+      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+      <img src="https://img.shields.io/badge/Vector_Search-EC4899?style=flat-square" />
     </td>
   </tr>
   <tr>
     <td><strong>Frameworks & Web</strong></td>
     <td>
+      <img src="https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black" />
       <img src="https://img.shields.io/badge/Next.js_14-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-      <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black" />
       <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/Bun-000000?style=flat-square&logo=bun&logoColor=white" />
       <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
-      <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+      <img src="https://img.shields.io/badge/Tailwind_CSS_v4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
     </td>
   </tr>
   <tr>
@@ -232,9 +257,19 @@ I am an **Applied AI & Machine Learning Engineer** passionate about turning comp
 
 ---
 
-### 📊 GitHub Activity & Real-Time Metrics
+### 📊 Contribution Graph & GitHub Analytics
 
 <div align="center">
+
+  <!-- Snake Animation -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aashutoshkumarr/aashutoshkumarr/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aashutoshkumarr/aashutoshkumarr/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/aashutoshkumarr/aashutoshkumarr/output/github-contribution-grid-snake.svg" width="100%" />
+  </picture>
+
+  <br/><br/>
+
   <table border="0">
     <tr>
       <td width="50%" align="center">
@@ -253,6 +288,7 @@ I am an **Applied AI & Machine Learning Engineer** passionate about turning comp
       </td>
     </tr>
   </table>
+
 </div>
 
 ---
