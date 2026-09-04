@@ -238,15 +238,18 @@ I am an **Applied AI & Machine Learning Engineer** passionate about turning comp
   <table border="0">
     <tr>
       <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=aashutoshkumarr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=38BDF8&text_color=94A3B8&icon_color=38BDF8" alt="Ashutosh's GitHub Stats" width="100%" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aashutoshkumarr&theme=tokyonight" alt="Ashutosh's Profile Details" width="100%" />
       </td>
       <td width="50%" align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=aashutoshkumarr&theme=tokyonight&hide_border=true&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub Streak" width="100%" />
+        <img src="https://streak-stats.demolab.com/?user=aashutoshkumarr&theme=tokyonight&hide_border=true&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub Streak" width="100%" />
       </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aashutoshkumarr&layout=compact&theme=tokyonight&hide_border=true&title_color=38BDF8&text_color=94A3B8" alt="Top Languages" width="60%" />
+      <td width="50%" align="center">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aashutoshkumarr&theme=tokyonight" alt="Repos Per Language" width="100%" />
+      </td>
+      <td width="50%" align="center">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aashutoshkumarr&theme=tokyonight" alt="Overall GitHub Stats" width="100%" />
       </td>
     </tr>
   </table>
