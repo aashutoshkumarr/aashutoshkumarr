@@ -11,6 +11,9 @@
 
   <!-- Quick Badges -->
   <p align="center">
+    <a href="https://www.linkedin.com/in/ashutosh-kumar-608917271/">
+      <img src="https://img.shields.io/badge/LinkedIn-ashutosh--kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
     <a href="mailto:ashutoshranar4@gmail.com">
       <img src="https://img.shields.io/badge/Email-ashutoshranar4%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
@@ -314,13 +317,16 @@ I am an **Applied AI & Machine Learning Engineer** focused on building resilient
 <div align="center">
   <p>Whether you want to discuss AI architecture, collaborate on open-source intelligence tools, or explore opportunities:</p>
   
-  <a href="mailto:ashutoshranar4@gmail.com">
+  <a href="https://www.linkedin.com/in/ashutosh-kumar-608917271/">
+      <img src="https://img.shields.io/badge/LinkedIn-ashutosh--kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:ashutoshranar4@gmail.com">
     <img src="https://img.shields.io/badge/Email-ashutoshranar4%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/aashutoshkumarr">
     <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://linkedin.com">
+  <a href="https://www.linkedin.com/in/ashutosh-kumar-608917271/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 
