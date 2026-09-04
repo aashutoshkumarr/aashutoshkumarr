@@ -75,7 +75,7 @@ I am an **Applied AI & Machine Learning Engineer** focused on building resilient
     <tr>
       <td>
         <a href="https://github.com/aashutoshkumarr/ai-github-repository-auditorr">
-          <strong>🤖 AI GitHub Repository Auditor</strong>
+          <strong>🤖 AI GitHub Repository Auditorr</strong>
         </a>
         <br/>
         <em>Autonomous Code Quality & Security Auditor</em>
