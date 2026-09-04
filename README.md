@@ -2,7 +2,7 @@
 
   <!-- Typing SVG Dynamic Header -->
   <a href="https://github.com/aashutoshkumarr">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=680&lines=Hi%2C+I'm+Ashutosh+Rana+%F0%9F%91%8B;AI+%26+Machine+Learning+Engineer;Building+Autonomous+Agentic+Systems;Architecting+Scalable+RecSys+Engines;Full-Stack+Applied+AI+Developer" alt="Typing SVG Banner" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=680&lines=Hi%2C+I'm+Ashutosh+Kumar+%F0%9F%91%8B;AI+%26+Machine+Learning+Engineer;Building+Autonomous+Agentic+Systems;Architecting+Scalable+RecSys+Engines;Full-Stack+Applied+AI+Developer" alt="Typing SVG Banner" />
   </a>
 
   <p align="center">
@@ -289,5 +289,5 @@ I am an **Applied AI & Machine Learning Engineer** passionate about turning comp
   </a>
 
   <br/><br/>
-  <sub>⚡ <em>Engineered by <a href="https://github.com/aashutoshkumarr">Ashutosh Rana</a></em> ⚡</sub>
+  <sub>⚡ <em>Engineered by <a href="https://github.com/aashutoshkumarr">Ashutosh Kumar</a></em> ⚡</sub>
 </div>
